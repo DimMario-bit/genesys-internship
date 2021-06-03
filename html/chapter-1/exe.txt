@@ -1,0 +1,28 @@
+Exercises.  chapter 1.1
+1. Identify all the tags in Listing 2. Notice that you don’t have to know what
+a tag does to be able to identify it correctly. (This is a good example of
+technical sophistication (Box 1).)
+
+solution
+1. <p> </p> paragraph tag
+2. <em> </em> emphasises tag
+3. <a> </a> the anchor tag
+4. <trong> </strong> strong or bold tag
+5. <blockquote> </blockquote> the block quote tag
+6. <br> break line tag
+
+2. Some HTML tags don’t contain any content, and instead are known as
+void elements, also called self-closing tags. Which tag in Listing 2 is a
+void element?
+
+solution
+<br> the breakline tag
+
+3. HTML tags can be nested, which means that one tag can be put inside
+another. Which tags in Listing 2 are nested? Don’t include any selfclosing tags.
+
+solution
+1. <p> the paragraph tag
+2. <em> the emphasises tag
+3. <a> the anchor tag
+4. <strong> the strong tag
