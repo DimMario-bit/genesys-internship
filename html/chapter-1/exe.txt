@@ -26,3 +26,8 @@ solution
 2. <em> the emphasises tag
 3. <a> the anchor tag
 4. <strong> the strong tag
+
+
+As a question asked in the first Exercise-- using the git to visit the git repos using
+the URL was successful. but personally I find it stressful, rather commit and push at the end of each 
+work than working directly on the repo.
